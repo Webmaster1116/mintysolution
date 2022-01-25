@@ -1,0 +1,27 @@
+.elementor-kit-24{--e-global-color-primary:#202125;--e-global-color-secondary:#202125;--e-global-color-text:#202125;--e-global-color-accent:#F9BC6E;--e-global-color-2f09a6ef:#4054B2;--e-global-color-49c75eef:#23A455;--e-global-color-769dc5d0:#000;--e-global-color-ec42fd9:#FFF;--e-global-color-39f67f8b:#313131;--e-global-color-388dd0c:#43434324;--e-global-color-5bd69a2:#4B0D6E;--e-global-color-8c0e514:#7B426E;--e-global-color-eef2074:#273B8F;--e-global-color-52bd0ea:#F94334;--e-global-color-5c5f42d:#E8D6ED;--e-global-color-b64acaa:#D6A7E1;--e-global-color-00b1db6:#626262;--e-global-color-f6bd5bc:#FDF856;--e-global-color-14c22a7:#EFEFEF;--e-global-color-cc2542c:#DBDCE0;--e-global-color-c813fd2:#46A8FF;--e-global-color-9e4e357:#FFB9B9;--e-global-color-24d3a40:#7A3F9C;--e-global-color-872d0e4:#0082E0;--e-global-color-0af2398:#ED4621;--e-global-color-3487500:#ED4621;--e-global-color-b94e02b:#FF8469;--e-global-color-a076630:#B070FF;--e-global-color-a25a416:#FAF7FF;--e-global-color-d4e5083:#969499;--e-global-color-29f74a4:#9642FF;--e-global-color-126a8f2:#9642FF;--e-global-color-e9dce06:#32046B;--e-global-color-d4c6e35:#B070FF;--e-global-color-93d32d0:#32046B;--e-global-color-5cedeed:#4D4D4D;--e-global-color-4ef89dd:#323133;--e-global-color-fbb3efd:#FEF2E4;--e-global-color-4257def:#C59E6F;--e-global-color-154af5d:#DFA762;--e-global-color-a35f599:#C8C8C8;--e-global-color-05bc430:#FF645F;--e-global-color-9d4ee9b:#83DEFF;--e-global-color-0f82594:#FFEB83;--e-global-color-d157205:#633CAE;--e-global-color-aa2fd72:#FF645FC4;--e-global-color-0e76d60:#F8F9FA;--e-global-color-05561fc:#633CAE63;--e-global-color-3e7506e:#7152AD;--e-global-typography-primary-font-size:33px;--e-global-typography-primary-font-weight:600;--e-global-typography-primary-font-style:oblique;--e-global-typography-primary-line-height:1.5em;--e-global-typography-secondary-font-weight:normal;--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-weight:500;--e-global-typography-db9da34-font-size:27px;--e-global-typography-db9da34-font-weight:600;--e-global-typography-db9da34-line-height:1em;color:#000000;font-family:"Poppins", Roboto;font-size:16px;font-weight:300;line-height:2.1em;letter-spacing:0.2px;}.elementor-kit-24 p{margin-bottom:0px;}.elementor-kit-24 a{color:#46A8FF;font-family:"Poppins", Roboto;}.elementor-kit-24 a:hover{color:var( --e-global-color-text );}.elementor-kit-24 h1{font-family:"Poppins", Roboto;font-size:31px;font-weight:500;}.elementor-kit-24 h2{font-family:"Poppins", Roboto;font-size:29px;font-weight:500;}.elementor-kit-24 h3{font-family:"Poppins", Roboto;}.elementor-kit-24 h4{font-family:"Poppins", Roboto;}.elementor-kit-24 h5{font-family:"Poppins", Roboto;font-size:25px;}.elementor-kit-24 h6{font-family:"Poppins", Roboto;}.elementor-kit-24 button,.elementor-kit-24 input[type="button"],.elementor-kit-24 input[type="submit"],.elementor-kit-24 .elementor-button{font-size:20px;font-weight:600;line-height:1.6em;border-radius:50px 50px 50px 50px;}.elementor-kit-24 button:hover,.elementor-kit-24 button:focus,.elementor-kit-24 input[type="button"]:hover,.elementor-kit-24 input[type="button"]:focus,.elementor-kit-24 input[type="submit"]:hover,.elementor-kit-24 input[type="submit"]:focus,.elementor-kit-24 .elementor-button:hover,.elementor-kit-24 .elementor-button:focus{color:#FFFFFF;background-color:#000000;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1355px;}.elementor-widget:not(:last-child){margin-bottom:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}}/* Start custom CSS */.wc-header-btn span {
+    color: #633ca3 !important;
+    background-color: transparent !important;
+    border: 1px solid #633ca3;
+}
+
+.wc-header-btn:hover  span {
+    color: #ffffff !important;
+    background-color:#633ca3 !important;
+    border: 1px solid #633ca3;
+}
+
+.wc-relative {
+    position: relative !important;
+}
+
+.wc-icon-animate .elementor-button .elementor-button-icon {
+    transition: all 0.3s ease;
+    
+    
+}
+
+.wc-icon-animate .elementor-button:hover .elementor-button-icon {
+    transform: translate3d(10px, 0px, 0px);
+    
+    
+}/* End custom CSS */
